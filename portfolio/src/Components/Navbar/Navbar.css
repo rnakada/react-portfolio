@@ -1,0 +1,14 @@
+.Navbar {
+    display: inline-block;
+    width: 33.33%;
+    height: 150px;
+    text-align: center;
+    background-color: grey;
+    border-bottom: 1px solid black;
+    box-shadow: lightgrey 0 2px;;
+    
+}
+
+p {
+    margin-top: 40px;
+}
